@@ -82,7 +82,7 @@ TECH STACK
 GETTING STARTED
 
 1. Clone the repository
-   git clone https://github.com/yourusername/crime-before-crime
+   git clone https://github.com/jennatherese/crime-before-crime
 
 2. Install dependencies
    cd crime-before-crime
